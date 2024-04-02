@@ -4,6 +4,7 @@
     "description": "Apple, une marque de technologie de renommée mondiale. Utilisez le code de réduction APPLE10 pour obtenir 10% de réduction.",
     "url": "https://github.com/X3LAX/BoredealsAppAndroidRessources/blob/main/logos/apple_logo.png?raw=true",
     "name": "apple",
+    "discount_percentages": 10,
     "promocode": "APPLE10"
   },
   {
@@ -11,6 +12,7 @@
     "description": "Diesel, célèbre pour ses vêtements de mode. Utilisez le code de réduction DIESEL15 pour obtenir 15% de réduction.",
     "url": "https://github.com/X3LAX/BoredealsAppAndroidRessources/blob/main/logos/diesel_logo.png?raw=true",
     "name": "diesel",
+    "discount_percentages": 15,
     "promocode": "DIESEL15"
   },
   {
@@ -18,6 +20,7 @@
     "description": "Gucci, une marque de luxe bien connue. Utilisez le code de réduction GUCCI20 pour obtenir 20% de réduction.",
     "url": "https://github.com/X3LAX/BoredealsAppAndroidRessources/blob/main/logos/gucci_logo.png?raw=true",
     "name": "gucci",
+    "discount_percentages": 20,
     "promocode": "GUCCI20"
   },
   {
@@ -25,6 +28,7 @@
     "description": "Hermes, symbole de l'élégance française. Utilisez le code de réduction HERMES25 pour obtenir 25% de réduction.",
     "url": "https://github.com/X3LAX/BoredealsAppAndroidRessources/blob/main/logos/hermes_logo.png?raw=true",
     "name": "hermes",
+    "discount_percentages": 25,
     "promocode": "HERMES25"
   },
   {
@@ -32,6 +36,7 @@
     "description": "HP, leader dans le domaine de l'informatique. Utilisez le code de réduction HP30 pour obtenir 30% de réduction.",
     "url": "https://github.com/X3LAX/BoredealsAppAndroidRessources/blob/main/logos/hp_logo.png?raw=true",
     "name": "hp",
+    "discount_percentages": 30,
     "promocode": "HP30"
   },
   {
@@ -39,6 +44,7 @@
     "description": "Louis Vuitton, une marque de luxe emblématique. Utilisez le code de réduction LV35 pour obtenir 35% de réduction.",
     "url": "https://github.com/X3LAX/BoredealsAppAndroidRessources/blob/main/logos/lv_logo.png?raw=true",
     "name": "lv",
+    "discount_percentages": 35,
     "promocode": "LV35"
   },
   {
@@ -46,6 +52,7 @@
     "description": "Nike, une marque de sport populaire. Utilisez le code de réduction NIKE40 pour obtenir 40% de réduction.",
     "url": "https://github.com/X3LAX/BoredealsAppAndroidRessources/blob/main/logos/nike_logo.png?raw=true",
     "name": "nike",
+    "discount_percentages": 40,
     "promocode": "NIKE40"
   },
   {
@@ -53,6 +60,7 @@
     "description": "Prada, une marque de mode de luxe. Utilisez le code de réduction PRADA45 pour obtenir 45% de réduction.",
     "url": "https://github.com/X3LAX/BoredealsAppAndroidRessources/blob/main/logos/prada_logo.png?raw=true",
     "name": "prada",
+    "discount_percentages": 45,
     "promocode": "PRADA45"
   },
   {
@@ -60,6 +68,7 @@
     "description": "Samsung, un géant de l'électronique. Utilisez le code de réduction SAMSUNG50 pour obtenir 50% de réduction.",
     "url": "https://github.com/X3LAX/BoredealsAppAndroidRessources/blob/main/logos/samsung_logo.png?raw=true",
     "name": "samsung",
+    "discount_percentages": 50,
     "promocode": "SAMSUNG50"
   }
 ]
