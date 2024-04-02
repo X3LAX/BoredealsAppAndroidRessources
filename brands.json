@@ -3,7 +3,7 @@
     "id": 1,
     "description": "Obtenir 10% de réduction !",
     "url": "https://github.com/X3LAX/BoredealsAppAndroidRessources/blob/main/logos/apple_logo.png?raw=true",
-    "name": "apple",
+    "name": "APPLE",
     "discount_percentages": 10,
     "promocode": "APPLE10",
     "link": "https://www.apple.com/fr/"
@@ -12,7 +12,7 @@
     "id": 2,
     "description": "Obtenir 15% de réduction !",
     "url": "https://github.com/X3LAX/BoredealsAppAndroidRessources/blob/main/logos/diesel_logo.png?raw=true",
-    "name": "diesel",
+    "name": "DIESEL",
     "discount_percentages": 15,
     "promocode": "DIESEL15",
     "link": "https://www.diesel.com/fr/fr/home"
@@ -21,7 +21,7 @@
     "id": 3,
     "description": "Obtenir 20% de réduction !",
     "url": "https://github.com/X3LAX/BoredealsAppAndroidRessources/blob/main/logos/gucci_logo.png?raw=true",
-    "name": "gucci",
+    "name": "GUCCI",
     "discount_percentages": 20,
     "promocode": "GUCCI20",
     "link": "https://www.gucci.com/fr/fr/"
@@ -30,7 +30,7 @@
     "id": 4,
     "description": "Obtenir 25% de réduction !",
     "url": "https://github.com/X3LAX/BoredealsAppAndroidRessources/blob/main/logos/hermes_logo.png?raw=true",
-    "name": "hermes",
+    "name": "HERMES",
     "discount_percentages": 25,
     "promocode": "HERMES25",
     "link": "https://www.hermes.com/fr/fr/"
@@ -39,7 +39,7 @@
     "id": 5,
     "description": "Obtenir 30% de réduction !",
     "url": "https://github.com/X3LAX/BoredealsAppAndroidRessources/blob/main/logos/hp_logo.png?raw=true",
-    "name": "hp",
+    "name": "HP",
     "discount_percentages": 30,
     "promocode": "HP30",
     "link": "https://store.hp.com/FranceStore/Merch/List.aspx?sel=NTB"
@@ -48,7 +48,7 @@
     "id": 6,
     "description": "Obtenir 35% de réduction !",
     "url": "https://github.com/X3LAX/BoredealsAppAndroidRessources/blob/main/logos/lv_logo.png?raw=true",
-    "name": "lv",
+    "name": "LOUIS VUITTON",
     "discount_percentages": 35,
     "promocode": "LV35",
     "link": "https://fr.louisvuitton.com/fra-fr/homepage"
@@ -57,7 +57,7 @@
     "id": 7,
     "description": "Obtenir 40% de réduction !",
     "url": "https://github.com/X3LAX/BoredealsAppAndroidRessources/blob/main/logos/nike_logo.png?raw=true",
-    "name": "nike",
+    "name": "NIKE",
     "discount_percentages": 40,
     "promocode": "NIKE40",
     "link": "https://www.nike.com/fr/"
@@ -66,7 +66,7 @@
     "id": 8,
     "description": "Obtenir 45% de réduction !",
     "url": "https://github.com/X3LAX/BoredealsAppAndroidRessources/blob/main/logos/prada_logo.png?raw=true",
-    "name": "prada",
+    "name": "PRADA",
     "discount_percentages": 45,
     "promocode": "PRADA45",
     "link": "https://www.prada.com/fr/fr.html"
@@ -75,7 +75,7 @@
     "id": 9,
     "description": "Obtenir 50% de réduction !",
     "url": "https://github.com/X3LAX/BoredealsAppAndroidRessources/blob/main/logos/samsung_logo.png?raw=true",
-    "name": "samsung",
+    "name": "SAMSUNG",
     "discount_percentages": 60,
     "promocode": "SAMSUNG50",
     "link": "https://www.samsung.com/fr/"
