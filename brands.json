@@ -76,7 +76,7 @@
     "description": "Obtenir 50% de réduction !",
     "url": "https://github.com/X3LAX/BoredealsAppAndroidRessources/blob/main/logos/samsung_logo.png?raw=true",
     "name": "SAMSUNG",
-    "discount_percentages": 60,
+    "discount_percentages": 50,
     "promocode": "SAMSUNG50",
     "link": "https://www.samsung.com/fr/"
   }
